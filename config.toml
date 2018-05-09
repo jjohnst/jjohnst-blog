@@ -1,4 +1,4 @@
-baseURL = "http://jjohnst.github.io"
+baseURL = "http://jjohnst.github.io/index.html"
 title = "Hi, I'm Josh"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -106,7 +106,7 @@ page = "/:slug/"
 name = "Home"
 weight = -310
 identifier = "repository"
-url = "/"
+url = "/index.html"
 
 [blackfriday]
 hrefTargetBlank = true
