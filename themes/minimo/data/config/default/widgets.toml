@@ -1,0 +1,22 @@
+[about]
+title = "Joshua Johnston"
+description = "Software Engineer"
+logo = "/images/logo.jpg"
+
+[recent_posts]
+title = ""
+length = 5
+excludeTypes = ["page"]
+
+[sidebar_menu]
+title = ""
+mirror = ""
+
+[social_menu]
+title = ""
+platforms = ["github","twitter","email","linkedin"]
+
+[taxonomy_cloud]
+title = ""
+taxonomy = "tags"
+shuffle = true
