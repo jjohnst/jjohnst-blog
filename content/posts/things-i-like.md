@@ -1,6 +1,6 @@
 ---
 date: 2018-04-27T09:00:00+06:00
-title: Things I Like
+title: Things I Like Vol 1
 authors: ["jjohnst"]
 tags:
   - interests

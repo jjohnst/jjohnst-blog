@@ -1,6 +1,6 @@
 ---
 date: 2018-05-09T09:00:00+06:00
-title: Things I Like Part 2
+title: Things I Like Vol 2
 authors: ["jjohnst"]
 tags:
   - interests
