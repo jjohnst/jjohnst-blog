@@ -10,7 +10,8 @@ comments: false
 toc: false
 ---
 I thought it would be interesting to publish a list of 5 things that I found interesting or liked during the week.
-I may go bakc and add context
+I may publish these weekly or wait until I have 5 things to list.
+I may go back and add context.
 
 ## Things I Like
 
