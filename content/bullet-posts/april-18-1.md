@@ -1,11 +1,11 @@
 ---
 date: 2018-04-27T09:00:00+06:00
-title: Things I Like Vol 1
+title: 5-Bullet Friday
 authors: ["jjohnst"]
 tags:
   - interests
   - likes
-slug: things-i-like
+slug: april-18-1
 comments: false
 toc: false
 ---
